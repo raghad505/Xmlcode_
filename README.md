@@ -1,21 +1,21 @@
 # Xmlcode_
 <?xml version="1.0" encoding="UTF-8"?>
-<trainess>
- <traines>
-   <Name>ahmad</Name>
-   <Email>ahmad@gmail.com</Email>
-   <course>java</course>
- </traines>
- 
- <traines>
-   <Name>yasser</Name>
-   <Email>yasser@gmail.com</Email>
-   <course>python</course>
- </traines>
- 
- <traines>
-   <Name>khaled</Name>
-   <Email>khaled@gmail.com</Email>
-   <course>c++</course>
- </traines>
-</trainess>
+<trainees>
+  <trainee>
+    <name>ahmad</name>
+    <email>ahmad@gmail.com</email>
+    <course>java</course>
+  </trainee>
+
+  <trainee>
+    <name>yasser</name>
+    <email>yasser@gmail.com</email>
+    <course>python</course>
+  </trainee>
+
+  <trainee>
+    <name>khaled</name>
+    <email>khaled@gmail.com</email>
+    <course>c++</course>
+  </trainee>
+</trainees>
